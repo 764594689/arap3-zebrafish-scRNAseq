@@ -116,7 +116,7 @@ The 219 clusters are grouped into 13 broad lineages (see the `case_when` block i
 > **Data and resource availability.** This study re-analyses the publicly available
 > zebrafish single-cell atlas of Farnsworth et al. (2020; NCBI BioProject PRJNA564810),
 > obtained from the UCSC Cell Browser (dataset `zebrafish-dev`). All custom analysis
-> code is available at [repository URL / DOI]. All other relevant data are within the
-> article and its supplementary information.
+> code is available at Zenodo (https://doi.org/10.5281/zenodo.20550202). All other
+> relevant data are within the article and its supplementary information.
 
 The underlying dataset is subject to its original terms (Farnsworth et al., 2020).
